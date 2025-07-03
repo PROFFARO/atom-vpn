@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Dayab/Documents/PROJECTS/atom-vpn/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/AtomVPN.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AtomVPN.dir\\src\\main.cc.obj -c C:\\Users\\Dayab\\Documents\\PROJECTS\\atom-vpn\\src\\main.cc",
+  "file": "C:/Users/Dayab/Documents/PROJECTS/atom-vpn/src/main.cc",
+  "output": "CMakeFiles/AtomVPN.dir/src/main.cc.obj"
+},
+{
+  "directory": "C:/Users/Dayab/Documents/PROJECTS/atom-vpn/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/AtomVPN.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AtomVPN.dir\\src\\wintun_adapter.cc.obj -c C:\\Users\\Dayab\\Documents\\PROJECTS\\atom-vpn\\src\\wintun_adapter.cc",
+  "file": "C:/Users/Dayab/Documents/PROJECTS/atom-vpn/src/wintun_adapter.cc",
+  "output": "CMakeFiles/AtomVPN.dir/src/wintun_adapter.cc.obj"
+}
+]

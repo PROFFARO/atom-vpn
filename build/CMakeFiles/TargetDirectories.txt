@@ -1,0 +1,3 @@
+C:/Users/Dayab/Documents/PROJECTS/atom-vpn/build/CMakeFiles/AtomVPN.dir
+C:/Users/Dayab/Documents/PROJECTS/atom-vpn/build/CMakeFiles/edit_cache.dir
+C:/Users/Dayab/Documents/PROJECTS/atom-vpn/build/CMakeFiles/rebuild_cache.dir
