@@ -6,7 +6,7 @@
 #include "windivert_helper.h"
 #include "wintun_adapter.h"
 
-// Global flag for graceful shutdown
+// Global flag for shutdown
 std::atomic<bool> g_running(true);
 
 // Signal handler for Ctrl+C
@@ -19,8 +19,8 @@ void signal_handler(int signal) {
 
 int main() {
     std::cout << "Atom VPN - Starting up..." << std::endl;
-    
-    // Set up signal handler for graceful shutdown
+
+    // Set up signal handler for shutdown
     std::signal(SIGINT, signal_handler);
     std::signal(SIGTERM, signal_handler);
     
